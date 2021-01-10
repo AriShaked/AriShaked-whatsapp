@@ -1,4 +1,4 @@
 "# AriShaked-whatsapp" 
 
 Chat application.
-Using Node.js . Express.js. socket.io
+Using Express.js. socket.io
